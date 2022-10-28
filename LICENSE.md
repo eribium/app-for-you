@@ -1,2 +1,2 @@
 
-Copyright (C) 2022 eribium
+Copyright (C) 2022 Eribium
